@@ -110,3 +110,8 @@ http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
 http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://124.220.17.172/ws/heilongjiang.png" group-title="卫视(线路1)",黑龙江卫视
 http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
+
+#EXTINF:-1 tvg-name="4K测试1" tvg-logo="http://124.220.17.172/ws/heilongjiang.png" group-title="4K",4K测试1
+http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
+
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?
