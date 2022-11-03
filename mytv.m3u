@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://124.220.17.172/CCTV/CCTV4k.png" group-title="4K频道",CCTV 4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://124.220.17.172/CCTV/CCTV4k.png" group-title="央视(线路1)",CCTV 4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172/cctv/CCTV1.png" group-title="央视(线路1)",CCTV1
 http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225923/index.m3u8?fmt=ts2hls
@@ -109,11 +109,11 @@ http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://124.220.17.172/ws/heilongjiang.png" group-title="卫视(线路1)",黑龙江卫视
 http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225911/index.m3u8?fmt=ts2hls
 
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://124.220.17.172/CCTV/CCTV14.png" group-title="卡通",CCTV14
+http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225916/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://124.220.17.172/qt/jinyingkatong.png" group-title="卡通",金鹰卡通
 http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225686/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://124.220.17.172/qt/jiajiakatong.png" group-title="卡通",嘉佳卡通
 http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225968/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="http://124.220.17.172/qt/dongmanxiuchang.png" group-title="卡通",动漫秀场
-http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225995/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://124.220.17.172/CCTV/CCTV14.png" group-title="卡通",CCTV14
-http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225916/index.m3u8?fmt=ts2hls
+http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225955/index.m3u8?fmt=ts2hls
