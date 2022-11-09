@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="世界杯" tvg-logo="http://124.220.17.172/CCTV/CCTV4k.png" group-title="4K",世界杯 4K
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://124.220.17.172/CCTV/CCTV4k.png" group-title="央视(线路1)",CCTV 4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172/cctv/CCTV1.png" group-title="央视(线路1)",CCTV1
