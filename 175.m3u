@@ -2,8 +2,10 @@
 
 #EXTINF:-1,世界杯 4K
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
-#EXTINF:-1,CCTV4K超高清官方
+#EXTINF:-1,CCTV4K【官方】
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1,CCTV13新闻频道【官方】
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1,爱上4K
 http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV16
@@ -48,7 +50,7 @@ http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3
 http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225866/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV16
 http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226300/index.m3u8?fmt=ts2hls
-#EXTINF:-1,CCTV16官方
+#EXTINF:-1,CCTV16奥林匹克【官方】
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV17
